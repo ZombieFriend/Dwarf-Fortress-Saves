@@ -1,0 +1,64 @@
+[General]
+=removed=
+;:movies
+1-9:movements
+Shift+(1-9):fast movements
+
+=added=
+hjkl(+shifts):move page/selector/view/cusor
+
+
+[Dwarf Mode]
+-changed-
+(main)
+h->3:hauling
+H->shift+3:hotkeys
+j->U:Job List
+k->;:Look
+l->4:Locations
+L->:Artifacts
+
+(designations)
+h->g:Channel
+j->U:Down Stair
+
+(building)
+h->F:container
+j->z:cage
+k->V:kennel
+l->u:well
+H->X:Floor Hatch
+
+(building, furnances)
+k->i:Kiln
+
+(building, workshops)
+h->F:fishery
+j->E:jewelers
+k->C:clothiers
+l->i:still
+
+(building, traps)
+l->e:Lever
+
+(building, machine components)
+h->c:horizontal axle
+
+(pile)
+h->C:Cloth
+l->E:leather
+
+(units, citizens)
+j:View Job
+*note: There's a conflicing key (the key "l") which belongs to DFHack's Manipulator GUI-addon. Perhaps I should find a way to change this keybinding for consistency.
+
+
+
+
+
+
+
+
+
+
+
