@@ -49,7 +49,7 @@ h->C:Cloth
 l->E:leather
 
 (units, citizens)
-j:View Job
+j->V:View Job
 *note: There's a conflicing key (the key "l") which belongs to DFHack's Manipulator GUI-addon. Perhaps I should find a way to change this keybinding for consistency.
 
 
